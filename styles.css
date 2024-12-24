@@ -1,0 +1,75 @@
+/* Hex Colors */
+/* #021526 - Dark Blue*/
+/* #03346E - Medium Dark Blue */
+/* #6EACDA - Light Blue */
+/* #E2E2B6 - Beige */
+
+
+.playpen {
+    font-family: "Playpen Sans", serif;
+    text-shadow: -.5px 0 #E2E2B6, 0 .5px #E2E2B6, .5px 0 #E2E2B6, 0 -.5px #E2E2B6;
+    
+}
+
+.gradient-background {
+    background: linear-gradient(to bottom right, #03346E, #6EACDA , #E2E2B6);
+}
+
+.static-background {
+    background-color: #E2E2B6 !important;
+}
+
+.darkblue {
+    color: #021526;
+}
+
+.bg-gradient {
+    background-color: #03346E !important;
+}
+
+.text-bg-primary {
+    color: #E2E2B6 !important;
+}
+
+.border-black {
+    border-color: #021526 !important;
+}
+
+.text-body-secondary {
+    color: #021526 !important;
+}
+
+.btn-light {
+    background-color: #03346E !important;
+    color: white !important;
+    border-color: #03346E !important;
+}
+
+.btn-light:hover {
+    background-color: #6EACDA !important;
+    border-color: #6EACDA !important;
+    color: #021526 !important;
+}
+
+.lightblue {
+    background-color: #6EACDA !important;
+}
+
+.btn-outline-dark {
+    color: #03346E !important;
+    border-color: #03346E !important;
+}
+
+.btn-outline-dark:hover {
+    color: white !important;
+    border-color: #03346E !important;
+    background-color: #03346E !important;
+}
+
+.text-body-emphasis {
+    color: #021526 !important;
+}
+
+.nav-link:hover {
+    color: #6EACDA !important;
+}
