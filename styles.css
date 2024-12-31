@@ -6,8 +6,7 @@
 
 
 .playpen {
-    font-family: "Playpen Sans", serif;
-    text-shadow: -.5px 0 #E2E2B6, 0 .5px #E2E2B6, .5px 0 #E2E2B6, 0 -.5px #E2E2B6;
+    text-shadow: #E2E2B6 1px 1px 4px;
     
 }
 
